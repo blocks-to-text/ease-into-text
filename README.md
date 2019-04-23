@@ -59,6 +59,7 @@ Some examples include:
 * [PencilCode](https://pencilcode.net/edit/first) - Toggle between blocks & CoffeeScript or JavaScript
 * [Trinket](https://trinket.io) - write projects with blocks and export to python
 * [Make Code](https://makecode.microbit.org/#editor) - program for Micro Bit processors in JavaScript and blocks
+* Tynker and Minecraft also have features that allow students to develop in their game environments flexibly using blocks or text.
 
 [TOP](#ease-into-text)
 
