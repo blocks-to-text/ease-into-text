@@ -81,7 +81,7 @@ Below are some tools for studying code as text:
 
 ## Starter-Code Exercises
 
-Writing code from a blank page is overwhelming, not only because programming is hard but also because writing is not so easy.  Creating exercises and projects that provide students with code and ask them to fill in some blanks, fix a simple bug, or make small modifications is an easy way to help your students.  Not only is there less writing to do, but students can learn from studying the correct code that you wrote.
+Writing code from a blank page is overwhelming, not only because programming is hard but also because writing is not so easy.  Try creating exercises and projects that provide students with starter code and ask them to fill in some blanks, fix a simple bug, or make small modifications.  Not only is there less writing to do, but students can learn from studying the correct code that you wrote.
 
 Extra bonus, this is one of the easiest types of exercises to create and support.  You can create exercises out of the code you yourself studied, getting two things done at once.  You'll also be placing tighter constraints on the types of errors your students encounter since they are not searching all over to find the starter code they need.
 
