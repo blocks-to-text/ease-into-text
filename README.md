@@ -40,7 +40,7 @@ Editors like Visual Studio Code or Sublime are (at their very heart) just word p
 
 On-line and off-line pseudo-code games can help students prepare for the basic format and semantics of code. 
 
-[Toxicode's Compute-It](http://compute-it.toxicode.fr) is an outstanding on-line game that makes you be the computer interpreting pseudo-code instructions to pass on to the next level.  This game builds up to recursive functions in a very approachable way.  
+[Toxicode's Compute-It](http://compute-it.toxicode.fr) is an outstanding on-line game that makes you be the computer interpreting pseudo-code instructions to pass on to the next level.  This game builds up to recursive functions in a very approachable way.  This game is also very well-suited to adapting for offline play.  For example, one student can read off the instructions while other students walk around over paper dots on the floor. 
 
 [This set of resources](https://community.computingatschool.org.uk/resources/2321/single) is everything you need to get started with off-line pseudo code in class.  It includes lesson plans, print-outs, and readings.
 
